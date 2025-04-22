@@ -118,6 +118,6 @@ Test files include: (To test units involved)
 
 ## Notice
 
-- This was a freelance project indtended for educational purposes.
+- This was a freelance project intended for educational purposes only.
 
 ---
