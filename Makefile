@@ -1,10 +1,3 @@
-# Makefile for Six Degrees of Collaboration
-#
-# Project Two, CS 15, April 2025
-#
-# STUDENT TODO: Ensure all necessary files are included for the provide target
-#
-
 CXX      = clang++
 CXXFLAGS = -g3 -Wall -Wextra -std=c++11
 INCLUDES = $(shell echo *.h)

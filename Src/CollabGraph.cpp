@@ -25,7 +25,7 @@
 **       Edited function contracts to improve consistency with course style
 **       guide and other starter code.
 **   
-**     April 2025: [YOUR NAME]
+**     April 2025:
 **       Implemented get_vertex_neighbors and report_path functions.
 **
 **/
