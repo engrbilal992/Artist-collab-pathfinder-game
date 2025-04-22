@@ -1,0 +1,12 @@
+bfs
+Alicia Keys
+Beyonce
+dfs
+Ariana Grande
+Justin Bieber
+not
+Anderson .Paak
+Drake
+Nicki Minaj
+*
+quit

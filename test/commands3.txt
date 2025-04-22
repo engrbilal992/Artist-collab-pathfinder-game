@@ -1,0 +1,13 @@
+bfs
+Anderson .Paak
+Unknown Artist
+dfs
+Alicia Keys
+Alicia Keys
+not
+Ariana Grande
+Billie Eilish
+Justin Bieber
+Nicki Minaj
+*
+quit

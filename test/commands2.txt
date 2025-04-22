@@ -1,0 +1,13 @@
+bfs
+Ariana Grande
+Kanye West
+dfs
+Alicia Keys
+Adele
+not
+Beyonce
+Anderson .Paak
+Ariana Grande
+Alicia Keys
+*
+quit
