@@ -102,7 +102,7 @@ Unit tests verify:
 - Error handling for unknown artists and invalid commands.
 - Exclusion logic during searches.
 
-Test files include:
+Test files include: (To test units involved)
 - `test_collabgraph.cpp`  
 - `test_sixdegrees.cpp`  
 - Example command and data files (`basic_commands.txt`, `edge_cases.txt`).
@@ -113,5 +113,11 @@ Test files include:
 
 - C++11 or later.
 - Standard Template Library (STL).
+
+---
+
+## Notice
+
+- This was a freelance project indtended for educational purposes.
 
 ---
