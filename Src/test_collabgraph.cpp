@@ -7,8 +7,8 @@
  **   Unit tests for CollabGraph class functions.
  **
  ** ChangeLog:
- **   April 2025: YOUR NAME
- **     Created for CS 15 Project 3.
+ **   April 2025: 
+ **    
  **/
 
  #include <iostream>

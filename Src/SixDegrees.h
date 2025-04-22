@@ -7,7 +7,9 @@
 **   Implements the SixDegrees class to manage a collaboration graph of artists,
 **   process commands (bfs, dfs, not, quit), and output paths of collaborations
 **   between artists based on the provided input.
-**
+**      
+**      change log
+**     April 2025:
 **/
 
 #ifndef __SIX_DEGREES__

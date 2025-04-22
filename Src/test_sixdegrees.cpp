@@ -8,7 +8,7 @@
 **
 ** ChangeLog:
 **   April 2025: Student
-**     Created for CS 15 Project 3.
+**     
 **/
 
 #include <iostream>
