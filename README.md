@@ -1,4 +1,4 @@
-# Artist-collab-pathfinder-game
+# Artist Collab Pathfinder
 
 A C++ program that models musical artist collaborations as an undirected graph and finds connection paths between artists based on shared songs. Supports search operations such as breadth-first search, depth-first search, and exclusion-based queries.
 
