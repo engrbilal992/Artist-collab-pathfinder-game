@@ -108,16 +108,4 @@ Test files include: (To test units involved)
 - Example command and data files (`basic_commands.txt`, `edge_cases.txt`).
 
 ---
-
-## Dependencies
-
-- C++11 or later.
-- Standard Template Library (STL).
-
----
-
-## Notice
-
-- This was a freelance project intended for educational purposes only.
-
 ---
